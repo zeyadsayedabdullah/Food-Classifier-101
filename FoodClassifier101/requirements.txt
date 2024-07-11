@@ -1,0 +1,6 @@
+torch>=2.0.0
+torchvision>=0.15.0
+numpy<2
+gradio>=3.0.0
+anyio>=3.0.0
+fsspec>=2023.1.0
