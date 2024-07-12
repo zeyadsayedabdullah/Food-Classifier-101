@@ -1,7 +1,3 @@
-Sure, here's a template for your README.md file for the Food-Classifier-101 project:
-
----
-
 # Food Classifier 101
 
 This project aims to classify food images into one of 101 different food categories using deep learning models. We utilized the Food-101 dataset and trained models to achieve accurate predictions.
